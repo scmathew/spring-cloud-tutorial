@@ -11,7 +11,7 @@ Sample Spring Boot projects created from a LinkedIn Learning course.
 
 ### Config Server
 - [Config Server](config-server/README.md)
-- [Spring Cloud Config](https://github.com/scmathew/spring-cloud-config)
+- [Spring Cloud Config Files](https://github.com/scmathew/spring-cloud-config)
 
 ## Helpful Links
 - [Notes](notes/)
