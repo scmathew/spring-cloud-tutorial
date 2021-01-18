@@ -1,6 +1,11 @@
 # Spring Cloud Tutorial
 
 Sample Spring Boot projects created from a LinkedIn Learning course.
+Shows how to create a config server and have other spring apps consume the config.  
+
+In this case the service apps now run all on different ports based 
+on the configs defined in [Spring Cloud Config Files](https://github.com/scmathew/spring-cloud-config).
+
 
 ## Modules
 
